@@ -1,16 +1,79 @@
 [
     {
-        "title": "Example Session Title",
-        "speaker": "Dr. John Doe",
-        "date": "June 18, 2025",
-        "time": "10:00 AM",
-        "location": "Room A"
+        "title": "Mapping of organic farming with multi-year Sentinel-2 time series",
+        "format": "Talk",
+        "speaker": "Jan Hemmerling, Marcel Schwieder, Stefan Erasmi, ...",
+        "date": "Tuesday",
+        "time": "A.02.03 EO for Agriculture Under Pressure, Part 3"
     },
     {
-        "title": "Advanced Earth Observation Techniques",
-        "speaker": "Dr. Jane Smith",
-        "date": "June 19, 2025",
-        "time": "2:00 PM",
-        "location": "Room B"
+        "title": "Developing Spectral Indicators for Monitoring Re-Wetted Peatlands",
+        "format": "Poster",
+        "speaker": "Ariane Tepaß, Marcel Schwieder, Christina Hellmann, Sebastian van der Linden, Stefan Erasmi",
+        "date": "Tuesday",
+        "time": "A.02.05 Peatland"
+    },
+    {
+        "title": "Multi-temporal mapping of peatland species abundance and condition after rewetting",
+        "format": "Talk",
+        "speaker": "Christina Hellmann, Bernd Bobertz, Enna Drege, Duc-Viet Nguyen, Dong Pham, Ariane Tepaß, Marcel Schwieder, Sebastian van der Linden",
+        "date": "Tuesday",
+        "time": "A.02.05 Peatland"
+    },
+    {
+        "title": "Revealing Spatial and Temporal Patterns of Agricultural Land Use in Germany for the Last Three Decades",
+        "format": "Talk",
+        "speaker": "Gideon Tetteh, Vu-Dong Pham, Marcel Schwieder, Felix Lobert, Alexander Gocht, Sebastian van der Linden, Stefan Erasmi",
+        "date": "Wednesday",
+        "time": "F.04.01 Earth Observation for European Agricultural Policies"
+    },
+    {
+        "title": "Nationwide Hedgerow Monitoring With VHR Satellites and Deep Learning to Support Climate and Biodiversity Action.",
+        "format": "Talk",
+        "speaker": "Javier Muro, Köber, Blickensdörfer, Schwieder, Erasmi",
+        "date": "Wednesday",
+        "time": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink"
+    },
+    {
+        "title": "Continuous Monitoring of Cropland Cover and Management to Support Carbon Modeling and Climate Action",
+        "format": "Poster",
+        "speaker": "Felix Lobert, Marcel Schwieder, Jonas Alsleben, Tom Broeg, Katja Kowalski, Akpona Okujeni, Patrick Hostert, Selma, Busse, Stefan Erasmi",
+        "date": "Wednesday",
+        "time": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink"
+    },
+    {
+        "title": "Spatiotemporal monitoring of cropland soil organic carbon changes from space",
+        "format": "Poster",
+        "speaker": "Tom Broeg, Axel Don, Martin Wiesmeier, Thomas Scholten, Stefan Erasmi",
+        "date": "Wednesday",
+        "time": "F.02.07 Essential Agricultural Variables: Building Blocks for Global Agriculture Monitoring and Policy Support"
+    },
+    {
+        "title": "Leveraging multi-decadal satellite time series to characterize grassland history for climate reporting",
+        "format": "Poster",
+        "speaker": "Lukas Blickensdörfer, Tom Broeg, Felix Lobert, Marcel Schwieder, Patrick Hostert, Stefan Erasmi",
+        "date": "Wednesday",
+        "time": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink"
+    },
+    {
+        "title": "Monitoring farmland habitat diversity with remote sensing from national to European level",
+        "format": "Poster",
+        "speaker": "Stefan Erasmi, Marcel Schwieder, Christian Levers, Talie Musavi, Momtchil Iordanov, Matteo Marcantonio, Felix Lobert, Gideon Tetteh, Marijn van der Velde",
+        "date": "Thursday",
+        "time": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets"
+    },
+    {
+        "title": "Spatial vs. Temporal: Trade-Offs in High-Resolution Satellite Imagery for National-Scale Hedgerow Mapping",
+        "format": "Poster",
+        "speaker": "Anna Köber, Ana Köber, Javier Muro, Marcel Schwieder, Stefan Erasmi",
+        "date": "Thursday",
+        "time": "F.03.02 Commercial EO missions’ data for land applications"
+    },
+    {
+        "title": "Mowing Detection Intercomparison Exercise (MODCiX) - A Cross-European Evaluation of Grassland Mowing Detection Algorithms",
+        "format": "Talk",
+        "speaker": "Marcel Schwieder, Felix Lobert, Stefan Erasmi and many others",
+        "date": "Friday",
+        "time": "A.02.07 Monitoring grasslands and rangelands from space"
     }
 ]
