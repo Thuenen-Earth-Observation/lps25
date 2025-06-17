@@ -86,5 +86,13 @@
         "day": "Friday",
         "time": "10:30",
         "session": "A.02.07 Monitoring grasslands and rangelands from space"
+    },
+    {
+        "title": "Interactive calculation of area-wide Farmland Habitat Biodiversity",
+        "format": "Demo",
+        "speaker": "Marcel Schwieder, Felix Lobert",
+        "day": "Wednesday",
+        "time": "14:15",
+        "session": "A.02 Terrestrial Biosphere including Biodiversity"
     }
 ]
