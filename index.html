@@ -56,22 +56,18 @@
         <p>Thünen Earth Observation Group Presentations and Sessions</p>
     </header>
     <main>
-        <section class="intro">
-            <h2>Welcome to the Living Planet Symposium 2025</h2>
-            <p>Join us for an engaging and insightful symposium where experts from around the world present the latest findings and advancements in Earth observation. This year, we have a diverse range of sessions covering various topics related to environmental monitoring, climate change, and sustainable development.</p>
-        </section>
         <div class="intro">
-            <p>We are excited to announce that the Thünen Earth Observation Group will be attending the Living Planet Symposium 2025 in Vienna. Our team will present groundbreaking research and innovative approaches in Earth observation, covering topics such as agricultural monitoring, biodiversity, and climate action. Below is a detailed schedule of our presentations and sessions. We look forward to engaging with the community and sharing our insights!</p>
+            <p>We are excited to announce that the Thünen Earth Observation Group will be attending the Living Planet Symposium 2025 in Vienna. Our team will present research and innovative approaches in Earth observation, covering topics such as agricultural monitoring, biodiversity, and climate action. Below is a detailed schedule of our presentations and sessions. We look forward to engaging with the community and sharing our insights!</p>
         </div>
         <table>
             <thead>
                 <tr>
                     <th>Title</th>
+                    <th>Format</th>
                     <th>Speaker</th>
                     <th>Day</th>
                     <th>Time</th>
                     <th>Session</th>
-                    <th>Format</th>
                 </tr>
             </thead>
             <tbody>
@@ -89,11 +85,11 @@
                     const row = document.createElement('tr');
                     row.innerHTML = `
                         <td>${session.title}</td>
+                        <td>${session.format}</td>
                         <td>${session.speaker}</td>
                         <td>${session.day}</td>
                         <td>${session.time}</td>
                         <td>${session.session}</td>
-                        <td>${session.format}</td>
                     `;
                     tableBody.appendChild(row);
                 });
