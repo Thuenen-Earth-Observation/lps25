@@ -12,13 +12,16 @@
             background-color: #f4f4f9;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #1E3A5F;
             color: white;
             padding: 1rem;
             text-align: center;
+            background-image: url('https://www.transparenttextures.com/patterns/stardust.png');
+            background-size: cover;
         }
         main {
             padding: 2rem;
+            color: #1E3A5F;
         }
         table {
             width: 100%;
@@ -31,7 +34,7 @@
             text-align: left;
         }
         table th {
-            background-color: #4CAF50;
+            background-color: #1E3A5F;
             color: white;
         }
         table tr:nth-child(even) {
@@ -39,6 +42,11 @@
         }
         table tr:hover {
             background-color: #ddd;
+        }
+        .intro {
+            margin-bottom: 2rem;
+            font-size: 1.2rem;
+            line-height: 1.6;
         }
     </style>
 </head>
@@ -48,25 +56,26 @@
         <p>Thünen Earth Observation Group Presentations and Sessions</p>
     </header>
     <main>
+        <section class="intro">
+            <h2>Welcome to the Living Planet Symposium 2025</h2>
+            <p>Join us for an engaging and insightful symposium where experts from around the world present the latest findings and advancements in Earth observation. This year, we have a diverse range of sessions covering various topics related to environmental monitoring, climate change, and sustainable development.</p>
+        </section>
+        <div class="intro">
+            <p>We are excited to announce that the Thünen Earth Observation Group will be attending the Living Planet Symposium 2025 in Vienna. Our team will present groundbreaking research and innovative approaches in Earth observation, covering topics such as agricultural monitoring, biodiversity, and climate action. Below is a detailed schedule of our presentations and sessions. We look forward to engaging with the community and sharing our insights!</p>
+        </div>
         <table>
             <thead>
                 <tr>
-                    <th>Session Title</th>
+                    <th>Title</th>
                     <th>Speaker</th>
-                    <th>Date</th>
+                    <th>Day</th>
                     <th>Time</th>
-                    <th>Location</th>
+                    <th>Session</th>
+                    <th>Format</th>
                 </tr>
             </thead>
             <tbody>
-                <!-- Add rows here -->
-                <tr>
-                    <td>Example Session Title</td>
-                    <td>Dr. John Doe</td>
-                    <td>June 18, 2025</td>
-                    <td>10:00 AM</td>
-                    <td>Room A</td>
-                </tr>
+                <!-- Session data will be populated here by JavaScript -->
             </tbody>
         </table>
     </main>
@@ -81,9 +90,10 @@
                     row.innerHTML = `
                         <td>${session.title}</td>
                         <td>${session.speaker}</td>
-                        <td>${session.date}</td>
+                        <td>${session.day}</td>
                         <td>${session.time}</td>
-                        <td>${session.location}</td>
+                        <td>${session.session}</td>
+                        <td>${session.format}</td>
                     `;
                     tableBody.appendChild(row);
                 });
