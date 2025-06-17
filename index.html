@@ -59,39 +59,61 @@
         <div class="intro">
             <p>We are excited to announce that the Thünen Earth Observation Group will be attending the Living Planet Symposium 2025 in Vienna. Our team will present research and innovative approaches in Earth observation, covering topics such as agricultural monitoring, biodiversity, and climate action. Below is a detailed schedule of our presentations and sessions. We look forward to engaging with the community and sharing our insights!</p>
         </div>
+        <h2>Talks</h2>
         <table>
             <thead>
                 <tr>
                     <th>Title</th>
-                    <th>Format</th>
+                    <th>Speaker</th>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Session</th>
+                </tr>
+            </thead>
+            <tbody id="talks-table">
+                <!-- Talks data will be populated here by JavaScript -->
+            </tbody>
+        </table>
+
+        <h2>Posters</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Title</th>
                     <th>Speaker</th>
                     <th>Day</th>
                     <th>Time</th>
                     <th>Session</th>
                 </tr>
             </thead>
-            <tbody>
-                <!-- Session data will be populated here by JavaScript -->
+            <tbody id="posters-table">
+                <!-- Posters data will be populated here by JavaScript -->
             </tbody>
         </table>
     </main>
     <script>
-        // Fetch session data from JSON file and populate the table
+        // Fetch session data from JSON file and populate the tables
         fetch('sessions.json')
             .then(response => response.json())
             .then(data => {
-                const tableBody = document.querySelector('table tbody');
+                const talksTableBody = document.getElementById('talks-table');
+                const postersTableBody = document.getElementById('posters-table');
+
                 data.forEach(session => {
                     const row = document.createElement('tr');
                     row.innerHTML = `
                         <td>${session.title}</td>
-                        <td>${session.format}</td>
                         <td>${session.speaker}</td>
                         <td>${session.day}</td>
                         <td>${session.time}</td>
                         <td>${session.session}</td>
                     `;
-                    tableBody.appendChild(row);
+
+                    if (session.format === 'Talk') {
+                        talksTableBody.appendChild(row);
+                    } else if (session.format === 'Poster') {
+                        postersTableBody.appendChild(row);
+                    }
                 });
             })
             .catch(error => console.error('Error loading session data:', error));
