@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Living Planet Symposium 2025 - Thünen Earth Observation Group</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        main {
+            padding: 2rem;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+        }
+        table th, table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        table th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        table tr:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Living Planet Symposium 2025</h1>
+        <p>Thünen Earth Observation Group Presentations and Sessions</p>
+    </header>
+    <main>
+        <table>
+            <thead>
+                <tr>
+                    <th>Session Title</th>
+                    <th>Speaker</th>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Add rows here -->
+                <tr>
+                    <td>Example Session Title</td>
+                    <td>Dr. John Doe</td>
+                    <td>June 18, 2025</td>
+                    <td>10:00 AM</td>
+                    <td>Room A</td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+    <script>
+        // Fetch session data from JSON file and populate the table
+        fetch('sessions.json')
+            .then(response => response.json())
+            .then(data => {
+                const tableBody = document.querySelector('table tbody');
+                data.forEach(session => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${session.title}</td>
+                        <td>${session.speaker}</td>
+                        <td>${session.date}</td>
+                        <td>${session.time}</td>
+                        <td>${session.location}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error loading session data:', error));
+    </script>
+</body>
+</html>

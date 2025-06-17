@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Example Session Title",
+        "speaker": "Dr. John Doe",
+        "date": "June 18, 2025",
+        "time": "10:00 AM",
+        "location": "Room A"
+    },
+    {
+        "title": "Advanced Earth Observation Techniques",
+        "speaker": "Dr. Jane Smith",
+        "date": "June 19, 2025",
+        "time": "2:00 PM",
+        "location": "Room B"
+    }
+]
