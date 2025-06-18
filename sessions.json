@@ -2,9 +2,9 @@
     {
         "title": "Mapping of organic farming with multi-year Sentinel-2 session series",
         "format": "Talk",
-        "speaker": "Jan Hemmerling, Marcel Schwieder, Stefan Erasmi, ...",
+        "speaker": "Jan Hemmerling, Marcel Schwieder, Stefan Erasmi",
         "day": "Tuesday",
-        "time": "10:30",
+        "time": "8:30",
         "session": "A.02.03 EO for Agriculture Under Pressure, Part 3",
         "collab": "false"
     },
@@ -13,7 +13,7 @@
         "format": "Talk",
         "speaker": "Christina Hellmann, Bernd Bobertz, Enna Drege, Duc-Viet Nguyen, Vu-Dong Pham, Ariane Tepaß, Marcel Schwieder, Sebastian van der Linden",
         "day": "Tuesday",
-        "time": "10:30",
+        "time": "8:30",
         "session": "A.02.05 Peatland",
         "collab": "true"
     },
@@ -36,11 +36,11 @@
         "collab": "true"
     },
     {
-        "title": "Nationwide Hedgerow Monitoring With VHR Satellites and Deep Learning to Support Climate and Biodiversity Action.",
+        "title": "Nationwide Hedgerow Monitoring With VHR Satellites and Deep Learning to Support Climate and Biodiversity Action",
         "format": "Talk",
-        "speaker": "Javier Muro, Anna Köber, Lukas Blickensdörfer, Marcel Schwieder, Stefan Erasmi",
+        "speaker": "Javier Muro, Lukas Blickensdörfer, Tom Broeg, Anna Köber, Marcel Schwieder, Axel Don, Stefan Erasmi",
         "day": "Wednesday",
-        "time": "10:30",
+        "time": "11:30",
         "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
         "collab": "false"
     },
@@ -58,7 +58,7 @@
         "format": "Poster",
         "speaker": "Lukas Blickensdörfer, Tom Broeg, Felix Lobert, Marcel Schwieder, Patrick Hostert, Stefan Erasmi",
         "day": "Wednesday",
-        "time": "10:30",
+        "time": "17:45",
         "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
         "collab": "false"
     },
@@ -67,7 +67,7 @@
         "format": "Poster",
         "speaker": "Tom Broeg, Axel Don, Martin Wiesmeier, Thomas Scholten, Stefan Erasmi",
         "day": "Wednesday",
-        "time": "10:30",
+        "time": "17:45",
         "session": "F.02.07 Essential Agricultural Variables: Building Blocks for Global Agriculture Monitoring and Policy Support",
         "collab": "false"
     },
@@ -94,7 +94,7 @@
         "format": "Poster",
         "speaker": "Stefan Erasmi, Marcel Schwieder, Christian Levers, Talie Musavi, Momtchil Iordanov, Matteo Marcantonio, Felix Lobert, Gideon Tetteh, Marijn van der Velde",
         "day": "Thursday",
-        "time": "10:30",
+        "time": "17:45",
         "session": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets",
         "collab": "false"
     },
@@ -103,17 +103,17 @@
         "format": "Poster",
         "speaker": "Anna Köber, Javier Muro, Marcel Schwieder, Stefan Erasmi",
         "day": "Thursday",
-        "time": "10:30",
-        "session": "F.03.02 Commercial EO missions' data for land applications",
+        "time": "17:45",
+        "session": "F.03.01 Commercial EO missions data for marine and land applications",
         "collab": "false"
     },
     {
         "title": "From GEE to CODE-DE: Transforming Deforestation Monitoring for EUDR Compliance and Global Forest Protection",
         "format": "Poster",
         "speaker": "Fatemé Ghafarian, Melvin Lippe, Margret Köthke",
-        "day": "Thursday",
-        "time": "10:30",
-        "session": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets",
+        "day": "Tuesday",
+        "time": "17:45",
+        "session": "F.04.20 EO in support of the regulation on Deforestation-free products (EUDR, EU 2023/1115)",
         "collab": "false"
     },
     {
