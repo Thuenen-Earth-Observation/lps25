@@ -5,15 +5,17 @@
         "speaker": "Jan Hemmerling, Marcel Schwieder, Stefan Erasmi, ...",
         "day": "Tuesday",
         "time": "10:30",
-        "session": "A.02.03 EO for Agriculture Under Pressure, Part 3"
+        "session": "A.02.03 EO for Agriculture Under Pressure, Part 3",
+        "collab": "false"
     },
     {
         "title": "Developing Spectral Indicators for Monitoring Re-Wetted Peatlands",
         "format": "Poster",
         "speaker": "Ariane Tepaß, Marcel Schwieder, Christina Hellmann, Sebastian van der Linden, Stefan Erasmi",
         "day": "Tuesday",
-        "time": "10:30",
-        "session": "A.02.05 Peatland"
+        "time": "17:45",
+        "session": "A.02.05 Peatland",
+        "collab": "false"
     },
     {
         "title": "Multi-temporal mapping of peatland species abundance and condition after rewetting",
@@ -21,15 +23,17 @@
         "speaker": "Christina Hellmann, Bernd Bobertz, Enna Drege, Duc-Viet Nguyen, Dong Pham, Ariane Tepaß, Marcel Schwieder, Sebastian van der Linden",
         "day": "Tuesday",
         "time": "10:30",
-        "session": "A.02.05 Peatland"
+        "session": "A.02.05 Peatland",
+        "collab": "true"
     },
     {
         "title": "Revealing Spatial and Temporal Patterns of Agricultural Land Use in Germany for the Last Three Decades",
         "format": "Talk",
         "speaker": "Gideon Tetteh, Vu-Dong Pham, Marcel Schwieder, Felix Lobert, Alexander Gocht, Sebastian van der Linden, Stefan Erasmi",
         "day": "Wednesday",
-        "time": "10:30",
-        "session": "F.04.01 Earth Observation for European Agricultural Policies"
+        "time": "16:15",
+        "session": "F.04.01 Earth Observation for European Agricultural Policies",
+        "collab": "false"
     },
     {
         "title": "Nationwide Hedgerow Monitoring With VHR Satellites and Deep Learning to Support Climate and Biodiversity Action.",
@@ -37,7 +41,8 @@
         "speaker": "Javier Muro, Anna Köber, Lukas Blickensdörfer, Marcel Schwieder, Stefan Erasmi",
         "day": "Wednesday",
         "time": "10:30",
-        "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink"
+        "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
+        "collab": "false"
     },
     {
         "title": "Continuous Monitoring of Cropland Cover and Management to Support Carbon Modeling and Climate Action",
@@ -45,7 +50,8 @@
         "speaker": "Felix Lobert, Marcel Schwieder, Jonas Alsleben, Tom Broeg, Katja Kowalski, Akpona Okujeni, Patrick Hostert, Selma, Busse, Stefan Erasmi",
         "day": "Wednesday",
         "time": "10:30",
-        "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink"
+        "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
+        "collab": "false"
     },
     {
         "title": "Spatiotemporal monitoring of cropland soil organic carbon changes from space",
@@ -53,7 +59,8 @@
         "speaker": "Tom Broeg, Axel Don, Martin Wiesmeier, Thomas Scholten, Stefan Erasmi",
         "day": "Wednesday",
         "time": "10:30",
-        "session": "F.02.07 Essential Agricultural Variables: Building Blocks for Global Agriculture Monitoring and Policy Support"
+        "session": "F.02.07 Essential Agricultural Variables: Building Blocks for Global Agriculture Monitoring and Policy Support",
+        "collab": "false"
     },
     {
         "title": "Leveraging multi-decadal satellite session series to characterize grassland history for climate reporting",
@@ -61,7 +68,8 @@
         "speaker": "Lukas Blickensdörfer, Tom Broeg, Felix Lobert, Marcel Schwieder, Patrick Hostert, Stefan Erasmi",
         "day": "Wednesday",
         "time": "10:30",
-        "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink"
+        "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
+        "collab": "false"
     },
     {
         "title": "Monitoring farmland habitat diversity with remote sensing from national to European level",
@@ -69,7 +77,8 @@
         "speaker": "Stefan Erasmi, Marcel Schwieder, Christian Levers, Talie Musavi, Momtchil Iordanov, Matteo Marcantonio, Felix Lobert, Gideon Tetteh, Marijn van der Velde",
         "day": "Thursday",
         "time": "10:30",
-        "session": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets"
+        "session": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets",
+        "collab": "false"
     },
     {
         "title": "Spatial vs. Temporal: Trade-Offs in High-Resolution Satellite Imagery for National-Scale Hedgerow Mapping",
@@ -77,15 +86,17 @@
         "speaker": "Anna Köber, Javier Muro, Marcel Schwieder, Stefan Erasmi",
         "day": "Thursday",
         "time": "10:30",
-        "session": "F.03.02 Commercial EO missions' data for land applications"
+        "session": "F.03.02 Commercial EO missions' data for land applications",
+        "collab": "false"
     },
     {
         "title": "Mowing Detection Intercomparison Exercise (MODCiX) - A Cross-European Evaluation of Grassland Mowing Detection Algorithms",
         "format": "Talk",
         "speaker": "Marcel Schwieder, Felix Lobert, Stefan Erasmi and many others",
         "day": "Friday",
-        "time": "10:30",
-        "session": "A.02.07 Monitoring grasslands and rangelands from space"
+        "time": "8:30",
+        "session": "A.02.07 Monitoring grasslands and rangelands from space",
+        "collab": "false"
     },
     {
         "title": "Interactive calculation of area-wide Farmland Habitat Biodiversity",
@@ -93,6 +104,16 @@
         "speaker": "Marcel Schwieder, Felix Lobert",
         "day": "Wednesday",
         "time": "14:15",
-        "session": "A.02 Terrestrial Biosphere including Biodiversity"
+        "session": "A.02 Terrestrial Biosphere including Biodiversity",
+        "collab": "false"
+    },
+    {
+        "title" : "From GEE to CODE-DE: Transforming Deforestation Monitoring for EUDR Compliance and Global Forest Protection",
+        "format": "Poster",
+        "speaker": "Fatemé Ghafarian, Melvin Lippe, Margret Köthke",
+        "day": "Thursday",
+        "time": "10:30",
+        "session": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets",
+        "collab": "false"
     }
 ]

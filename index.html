@@ -140,36 +140,60 @@
                 <!-- Demo Sessions data will be populated here by JavaScript -->
             </tbody>
         </table>
+
+        <h2>Collaborations</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Speaker</th>
+                    <th>Day</th>
+                    <th>Time</th>
+                    <th>Session</th>
+                    <th>Format</th>
+                </tr>
+            </thead>
+            <tbody id="collaborations-table">
+                <!-- Collaborations data will be populated here by JavaScript -->
+            </tbody>
+        </table>
+
+        <script>
+            // Fetch session data from JSON file and populate the tables
+            fetch('sessions.json')
+                .then(response => response.json())
+                .then(data => {
+                    const talksTableBody = document.getElementById('talks-table');
+                    const postersTableBody = document.getElementById('posters-table');
+                    const demoSessionsTableBody = document.getElementById('demo-sessions-table');
+                    const collaborationsTableBody = document.getElementById('collaborations-table');
+
+                    data.forEach(session => {
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${session.title}</td>
+                            <td>${session.speaker}</td>
+                            <td>${session.day}</td>
+                            <td>${session.time}</td>
+                            <td>${session.session}</td>
+                            <td>${session.format}</td>
+                        `;
+
+                        if (session.collab === "true") {
+                            collaborationsTableBody.appendChild(row);
+                        } else {
+                            if (session.format === 'Talk') {
+                                talksTableBody.appendChild(row);
+                            } else if (session.format === 'Poster') {
+                                postersTableBody.appendChild(row);
+                            } else if (session.format === 'Demo') {
+                                demoSessionsTableBody.appendChild(row);
+                            }
+                        }
+                    });
+                })
+                .catch(error => console.error('Error loading session data:', error));
+        </script>
     </main>
-    <script>
-        // Fetch session data from JSON file and populate the tables
-        fetch('sessions.json')
-            .then(response => response.json())
-            .then(data => {
-                const talksTableBody = document.getElementById('talks-table');
-                const postersTableBody = document.getElementById('posters-table');
-                const demoSessionsTableBody = document.getElementById('demo-sessions-table');
-
-                data.forEach(session => {
-                    const row = document.createElement('tr');
-                    row.innerHTML = `
-                        <td>${session.title}</td>
-                        <td>${session.speaker}</td>
-                        <td>${session.day}</td>
-                        <td>${session.time}</td>
-                        <td>${session.session}</td>
-                    `;
-
-                    if (session.format === 'Talk') {
-                        talksTableBody.appendChild(row);
-                    } else if (session.format === 'Poster') {
-                        postersTableBody.appendChild(row);
-                    } else if (session.format === 'Demo') {
-                        demoSessionsTableBody.appendChild(row);
-                    }
-                });
-            })
-            .catch(error => console.error('Error loading session data:', error));
-    </script>
 </body>
 </html>
