@@ -161,7 +161,7 @@
 
         <script>
             // Fetch session data from JSON file and populate the tables
-            fetch('sessions.json')
+            fetch('./sessions.json')
                 .then(response => response.json())
                 .then(data => {
                     const talksTableBody = document.getElementById('talks-table');
