@@ -1,11 +1,11 @@
 [
     {
-        "title": "Mapping of organic farming with multi-year Sentinel-2 session series",
+        "title": "Leveraging multi-year Sentinel-2 time series for mapping organic farmland",
         "format": "Talk",
         "speaker": "Jan Hemmerling, Marcel Schwieder, Stefan Erasmi",
         "day": "Tuesday",
         "time": "8:30",
-        "session": "A.02.03 EO for Agriculture Under Pressure, Part 3",
+        "session": "A.02.03 EO for Agriculture Under Pressure",
         "collab": "false",
         "url": "https://lps25.esa.int/programme/programme-session/?id=E261C5F7-C91F-46B8-B3E2-6BFAFF18A5C6&presentationId=25D429CD-A29C-4AE3-A783-8833068F45D8"
     },
@@ -30,6 +30,16 @@
         "url": "https://lps25.esa.int/programme/programme-session/?id=E00EE05D-8DE4-4E0F-AC0E-8EB379DE1EA8&presentationId=536D6B81-045E-4386-9DB3-4AE321D9F011"
     },
     {
+        "title": "From GEE to CODE-DE: Transforming Deforestation Monitoring for EUDR Compliance and Global Forest Protection",
+        "format": "Poster",
+        "speaker": "Fatemé Ghafarian, Melvin Lippe, Margret Köthke",
+        "day": "Tuesday",
+        "time": "17:45",
+        "session": "F.04.20 EO in support of the regulation on Deforestation-free products (EUDR, EU 2023/1115)",
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=64D8A53D-4EA4-43A0-AC8E-544D2F4C1310&presentationId=C6547E47-3843-4542-8DD6-6B79F3EC0623"
+    },
+    {
         "title": "Talk: Physics-guided Deep Learning for Crop Phenology Retrieval from Sentinel-1 and Sentinel-2 Time Series",
         "format": "Talk",
         "speaker": "Keke Duan, Anton Vrieling, Michael Schlund, Felix Lobert, Claudia Paris, Andrew Nelson",
@@ -48,6 +58,26 @@
         "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
         "collab": "false",
         "url": "https://lps25.esa.int/programme/programme-session/?id=F06AD8C6-927C-4523-944F-F4F82C61CAC1&presentationId=E9426E8D-18AB-4EE2-8CCE-4735350BD772"
+    },
+    {
+        "title": "Interactive calculation of area-wide Farmland Habitat Biodiversity",
+        "format": "Demo",
+        "speaker": "Marcel Schwieder, Felix Lobert",
+        "day": "Wednesday",
+        "time": "14:15",
+        "session": "A.02 Terrestrial Biosphere including Biodiversity",
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=8BC09133-9347-4709-B0AE-78D60F0CFDB5"
+    },
+    {
+        "title": "Revealing Spatial and Temporal Patterns of Agricultural Land Use in Germany for the Last Three Decades",
+        "format": "Talk",
+        "speaker": "Gideon Tetteh, Vu-Dong Pham, Marcel Schwieder, Felix Lobert, Alexander Gocht, Sebastian van der Linden, Stefan Erasmi",
+        "day": "Wednesday",
+        "time": "16:15",
+        "session": "F.04.01 Earth Observation for European Agricultural Policies",
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=2570EB30-AE96-4E3F-844A-4719665C28B1&presentationId=D1C09155-F99E-4EBC-8F84-5128DC96EF9E"
     },
     {
         "title": "Continuous Monitoring of Cropland Cover and Management to Support Carbon Modeling and Climate Action",
@@ -80,24 +110,14 @@
         "url": "https://lps25.esa.int/programme/programme-session/?id=E875B12D-BF45-4F89-9DED-EA77AC576E97&presentationId=1106B457-548F-47A7-849A-F5C581E724E4"
     },
     {
-        "title": "Interactive calculation of area-wide Farmland Habitat Biodiversity",
-        "format": "Demo",
-        "speaker": "Marcel Schwieder, Felix Lobert",
-        "day": "Wednesday",
-        "time": "14:15",
-        "session": "A.02 Terrestrial Biosphere including Biodiversity",
-        "collab": "false",
-        "url": "https://lps25.esa.int/programme/programme-session/?id=8BC09133-9347-4709-B0AE-78D60F0CFDB5"
-    },
-    {
-        "title": "Revealing Spatial and Temporal Patterns of Agricultural Land Use in Germany for the Last Three Decades",
+        "title": "Talk: BSRLC+: The first annual 30-m land cover maps with detailed crop types and peatlands in the Baltic Sea region over two decades (2000 – 2022)",
         "format": "Talk",
-        "speaker": "Gideon Tetteh, Vu-Dong Pham, Marcel Schwieder, Felix Lobert, Alexander Gocht, Sebastian van der Linden, Stefan Erasmi",
-        "day": "Wednesday",
+        "speaker": "Vu-Dong Pham, Farina de Waard, Fabian Thiel, Bernd Bobertz, Christina Hellman, Duc-Viet Nguyen, Felix Beer, Marcel Schwieder, Jörg Hartleib, David Frantz, Sebastian van der Linden",
+        "day": "Thursday",
         "time": "16:15",
-        "session": "F.04.01 Earth Observation for European Agricultural Policies",
-        "collab": "false",
-        "url": "https://lps25.esa.int/programme/programme-session/?id=2570EB30-AE96-4E3F-844A-4719665C28B1&presentationId=D1C09155-F99E-4EBC-8F84-5128DC96EF9E"
+        "session": "D.02.03 Approaches, accuracies, applications: next generation large-area land change monitoring",
+        "collab": "true",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=A4F341A5-125D-45B4-96F8-5B01AE38A4F0&presentationId=4AF66D43-8724-4428-8F28-34939DDC8AD4"
     },
     {
         "title": "Monitoring farmland habitat diversity with remote sensing from national to European level",
@@ -118,26 +138,6 @@
         "session": "F.03.01 Commercial EO missions data for marine and land applications",
         "collab": "false",
         "url": "https://lps25.esa.int/programme/programme-session/?id=E7FBE854-1DA7-4885-B77D-81574FD4FCBF&presentationId=6750AE4A-30B1-42DD-80D3-F3A9B954442B"
-    },
-    {
-        "title": "From GEE to CODE-DE: Transforming Deforestation Monitoring for EUDR Compliance and Global Forest Protection",
-        "format": "Poster",
-        "speaker": "Fatemé Ghafarian, Melvin Lippe, Margret Köthke",
-        "day": "Tuesday",
-        "time": "17:45",
-        "session": "F.04.20 EO in support of the regulation on Deforestation-free products (EUDR, EU 2023/1115)",
-        "collab": "false",
-        "url": "https://lps25.esa.int/programme/programme-session/?id=64D8A53D-4EA4-43A0-AC8E-544D2F4C1310&presentationId=C6547E47-3843-4542-8DD6-6B79F3EC0623"
-    },
-    {
-        "title": "Talk: BSRLC+: The first annual 30-m land cover maps with detailed crop types and peatlands in the Baltic Sea region over two decades (2000 – 2022)",
-        "format": "Talk",
-        "speaker": "Vu-Dong Pham, Farina de Waard, Fabian Thiel, Bernd Bobertz, Christina Hellman, Duc-Viet Nguyen, Felix Beer, Marcel Schwieder, Jörg Hartleib, David Frantz, Sebastian van der Linden",
-        "day": "Thursday",
-        "time": "16:15",
-        "session": "D.02.03 Approaches, accuracies, applications: next generation large-area land change monitoring",
-        "collab": "true",
-        "url": "https://lps25.esa.int/programme/programme-session/?id=A4F341A5-125D-45B4-96F8-5B01AE38A4F0&presentationId=4AF66D43-8724-4428-8F28-34939DDC8AD4"
     },
     {
         "title": "Evaluating Grassland Mowing Detection Algorithms Across Europe - Results of the Mowing Detection Intercomparison Exercise (MODCiX)",
