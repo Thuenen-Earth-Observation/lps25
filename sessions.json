@@ -6,7 +6,8 @@
         "day": "Tuesday",
         "time": "8:30",
         "session": "A.02.03 EO for Agriculture Under Pressure, Part 3",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=E261C5F7-C91F-46B8-B3E2-6BFAFF18A5C6&presentationId=25D429CD-A29C-4AE3-A783-8833068F45D8"
     },
     {
         "title": "Talk: Multi-temporal mapping of peatland species abundance and condition after rewetting",
@@ -15,7 +16,8 @@
         "day": "Tuesday",
         "time": "8:30",
         "session": "A.02.05 Peatland",
-        "collab": "true"
+        "collab": "true",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=45F1C426-13E5-4F06-B1AF-E8434E5F48CE&presentationId=4D405C0B-50AA-4DFA-BFA3-43EF9DCDA5CF"
     },
     {
         "title": "Developing Spectral Indicators for Monitoring Re-Wetted Peatlands",
@@ -24,7 +26,8 @@
         "day": "Tuesday",
         "time": "17:45",
         "session": "A.02.05 Peatland",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=E00EE05D-8DE4-4E0F-AC0E-8EB379DE1EA8&presentationId=536D6B81-045E-4386-9DB3-4AE321D9F011"
     },
     {
         "title": "Talk: Physics-guided Deep Learning for Crop Phenology Retrieval from Sentinel-1 and Sentinel-2 Time Series",
@@ -33,7 +36,8 @@
         "day": "Wednesday",
         "time": "8:30",
         "session": "A.02.06 Advances in land surface phenology monitoring and applications",
-        "collab": "true"
+        "collab": "true",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=727B4677-8E05-4E7A-937C-14F370836D86&presentationId=337CAD40-072D-4090-A980-E28F4AC8AA12"
     },
     {
         "title": "Nationwide Hedgerow Monitoring With VHR Satellites and Deep Learning to Support Climate and Biodiversity Action",
@@ -42,7 +46,8 @@
         "day": "Wednesday",
         "time": "11:30",
         "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=F06AD8C6-927C-4523-944F-F4F82C61CAC1&presentationId=E9426E8D-18AB-4EE2-8CCE-4735350BD772"
     },
     {
         "title": "Continuous Monitoring of Cropland Cover and Management to Support Carbon Modeling and Climate Action",
@@ -51,7 +56,8 @@
         "day": "Wednesday",
         "time": "17:45",
         "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=55635FDB-1BD7-496F-97AF-1CC0AC1F3F96&presentationId=7CB593D5-8E9B-43BC-84B0-6BC88B9624E1"
     },
     {
         "title": "Leveraging multi-decadal satellite session series to characterize grassland history for climate reporting",
@@ -60,7 +66,8 @@
         "day": "Wednesday",
         "time": "17:45",
         "session": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=55635FDB-1BD7-496F-97AF-1CC0AC1F3F96&presentationId=FC76D62A-BA7F-4C28-9FB2-59F5573C2FAB"
     },
     {
         "title": "Spatiotemporal monitoring of cropland soil organic carbon changes from space",
@@ -69,7 +76,8 @@
         "day": "Wednesday",
         "time": "17:45",
         "session": "F.02.07 Essential Agricultural Variables: Building Blocks for Global Agriculture Monitoring and Policy Support",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=E875B12D-BF45-4F89-9DED-EA77AC576E97&presentationId=1106B457-548F-47A7-849A-F5C581E724E4"
     },
     {
         "title": "Interactive calculation of area-wide Farmland Habitat Biodiversity",
@@ -78,7 +86,8 @@
         "day": "Wednesday",
         "time": "14:15",
         "session": "A.02 Terrestrial Biosphere including Biodiversity",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=8BC09133-9347-4709-B0AE-78D60F0CFDB5"
     },
     {
         "title": "Revealing Spatial and Temporal Patterns of Agricultural Land Use in Germany for the Last Three Decades",
@@ -87,7 +96,8 @@
         "day": "Wednesday",
         "time": "16:15",
         "session": "F.04.01 Earth Observation for European Agricultural Policies",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=2570EB30-AE96-4E3F-844A-4719665C28B1&presentationId=D1C09155-F99E-4EBC-8F84-5128DC96EF9E"
     },
     {
         "title": "Monitoring farmland habitat diversity with remote sensing from national to European level",
@@ -96,7 +106,8 @@
         "day": "Thursday",
         "time": "17:45",
         "session": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=6AFED12B-6390-4464-936F-4FACF9709E8D&presentationId=089D8A43-CC46-463A-8F6A-6F518B878D15"
     },
     {
         "title": "Spatial vs. Temporal: Trade-Offs in High-Resolution Satellite Imagery for National-Scale Hedgerow Mapping",
@@ -105,7 +116,8 @@
         "day": "Thursday",
         "time": "17:45",
         "session": "F.03.01 Commercial EO missions data for marine and land applications",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=E7FBE854-1DA7-4885-B77D-81574FD4FCBF&presentationId=6750AE4A-30B1-42DD-80D3-F3A9B954442B"
     },
     {
         "title": "From GEE to CODE-DE: Transforming Deforestation Monitoring for EUDR Compliance and Global Forest Protection",
@@ -114,7 +126,8 @@
         "day": "Tuesday",
         "time": "17:45",
         "session": "F.04.20 EO in support of the regulation on Deforestation-free products (EUDR, EU 2023/1115)",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=64D8A53D-4EA4-43A0-AC8E-544D2F4C1310&presentationId=C6547E47-3843-4542-8DD6-6B79F3EC0623"
     },
     {
         "title": "Talk: BSRLC+: The first annual 30-m land cover maps with detailed crop types and peatlands in the Baltic Sea region over two decades (2000 – 2022)",
@@ -123,15 +136,17 @@
         "day": "Thursday",
         "time": "16:15",
         "session": "D.02.03 Approaches, accuracies, applications: next generation large-area land change monitoring",
-        "collab": "true"
+        "collab": "true",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=A4F341A5-125D-45B4-96F8-5B01AE38A4F0&presentationId=4AF66D43-8724-4428-8F28-34939DDC8AD4"
     },
     {
-        "title": "Mowing Detection Intercomparison Exercise (MODCiX) - A Cross-European Evaluation of Grassland Mowing Detection Algorithms",
+        "title": "Evaluating Grassland Mowing Detection Algorithms Across Europe - Results of the Mowing Detection Intercomparison Exercise (MODCiX)",
         "format": "Talk",
         "speaker": "Marcel Schwieder, Felix Lobert, Stefan Erasmi and many others",
         "day": "Friday",
         "time": "8:30",
         "session": "A.02.07 Monitoring grasslands and rangelands from space",
-        "collab": "false"
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=07CFD67A-B985-4AE6-B474-A624C6832E97&presentationId=69EAA921-2E02-4079-A9D6-DCD02FBFC6FD"
     }
 ]

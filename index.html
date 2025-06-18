@@ -172,7 +172,7 @@
                     data.forEach(session => {
                         const row = document.createElement('tr');
                         row.innerHTML = `
-                            <td>${session.title}</td>
+                            <td><a href="${session.url}" target="_blank">${session.title}</a></td>
                             <td>${session.speaker}</td>
                             <td>${session.day}</td>
                             <td>${session.time}</td>
