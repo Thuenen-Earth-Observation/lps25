@@ -150,6 +150,16 @@
         "url": "https://lps25.esa.int/programme/programme-session/?id=E7FBE854-1DA7-4885-B77D-81574FD4FCBF&presentationId=6750AE4A-30B1-42DD-80D3-F3A9B954442B"
     },
     {
+        "title": "Woody fraction estimation in South-Central Ethiopia using spectral-temporal metrics: an approach for restoration monitoring",
+        "format": "Poster",
+        "speaker": "Alfred Kokas Aleeje, Katja Oehmichen, Nikolai Knapp, Martin Ehbrecht, Andreas Bolte",
+        "day": "Thursday",
+        "time": "17:45",
+        "session": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets",
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=6AFED12B-6390-4464-936F-4FACF9709E8D"
+    },
+    {
         "title": "Evaluating Grassland Mowing Detection Algorithms Across Europe - Results of the Mowing Detection Intercomparison Exercise (MODCiX)",
         "format": "Talk",
         "speaker": "Marcel Schwieder, Felix Lobert, Stefan Erasmi and many others",
@@ -158,5 +168,15 @@
         "session": "A.02.07 Monitoring grasslands and rangelands from space",
         "collab": "false",
         "url": "https://lps25.esa.int/programme/programme-session/?id=07CFD67A-B985-4AE6-B474-A624C6832E97&presentationId=69EAA921-2E02-4079-A9D6-DCD02FBFC6FD"
+    },
+    {
+        "title": "From Study Areas to a Nationwide Forest Damage Monitoring: Rollout in Germany in Progress",
+        "format": "Poster",
+        "speaker": "Katja Oehmichen, Jonathan Wolf, Tobias Schad, Martin Puhm, Andreas Wimmer, Janik Deutscher",
+        "day": "Friday",
+        "time": "13:00",
+        "session": "A.02.04 Advances in Monitoring and Management of Forest Ecosystems",
+        "collab": "false",
+        "url": "https://lps25.esa.int/programme/programme-session/?id=1046FED8-74CC-4104-AAF9-A0A40C1A596F"
     }
 ]
